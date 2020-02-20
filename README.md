@@ -1,4 +1,4 @@
-## SONGSTER 
+## SONGSTERR SEARCH
 
 ### [Live](http://songsterr-search-app.herokuapp.com/)
 
