@@ -44,7 +44,7 @@ const App = () => {
   const errorMessage = error ? <p className={styles.error}>{error}</p> : null;
   return (
     <div className={styles.app} id="search-engine">
-      <h1>Serch for tablature</h1>
+      <h1>Serch for tablatures</h1>
       <div className={styles.serchContainer}>
         <SearchForm
           onSubmit={handleSearch}
